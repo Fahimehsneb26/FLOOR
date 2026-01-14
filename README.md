@@ -2,4 +2,4 @@
 
 Dit is mijn repository.
 
-![Profielfoto](images/fotowpl.JPG)
+![fotowplJPG](images/fotowpl.JPG)
